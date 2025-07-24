@@ -7,7 +7,7 @@
 
 ## 📌 Descripción
 
-**Krypton** es una framework avanzada escrita en Python para realizar **pruebas de estrés en redes y aplicaciones web** a múltiples niveles del modelo OSI. Su propósito es permitir pruebas de carga, rendimiento, y resistencia de servicios ante distintos tipos de tráfico agresivo o anómalo.
+**s3** es una framework avanzada escrita en Python para realizar **pruebas de estrés en redes y aplicaciones web** a múltiples niveles del modelo OSI. Su propósito es permitir pruebas de carga, rendimiento, y resistencia de servicios ante distintos tipos de tráfico agresivo o anómalo.
 
 ---
 
