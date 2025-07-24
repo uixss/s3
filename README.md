@@ -4,13 +4,7 @@
 > ⚠️ **Advertencia:** Esta herramienta es exclusivamente para **pruebas de estrés autorizadas**. El uso indebido contra objetivos no autorizados es ilegal y puede tener consecuencias penales.
 
 ---
-
-## 📌 Descripción
-
-**s3** es una framework avanzada escrita en Python para realizar **pruebas de estrés en redes y aplicaciones web** a múltiples niveles del modelo OSI. Su propósito es permitir pruebas de carga, rendimiento, y resistencia de servicios ante distintos tipos de tráfico agresivo o anómalo.
-
----
-
+ 
 ## 🚀 Características Principales
 
 - ✅ **Multi-nivel (L3, L4, L7)**: métodos de ataque a nivel de red, transporte y aplicación.
@@ -69,21 +63,7 @@
 - 🔄 **Selección aleatoria de encabezados, métodos y IPs spoofed**.
 
 ---
-
-## 📦 Requisitos
-
-- Python 3.7+
-- Módulos:
-  - `requests`, `aiohttp`, `cloudscraper`
-  - `scapy`, `icmplib`, `socks`, `colorama`
-  - `fake_useragent`, `argparse`
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
+ 
 ## 🛠️ Uso
 
 ```bash
